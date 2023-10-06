@@ -1,4 +1,4 @@
-The following script can be run to force turn off laptop display.
+ The following script can be run to force turn off laptop display.
 
 Sample Usage: In Elementary OS, when the settings menu is unable to switch off the primary display,
 the script can force turn off the monitor.
