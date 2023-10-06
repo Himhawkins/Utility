@@ -14,7 +14,7 @@ Execute to look at the list of monitors:
 ```
 Replace eDP-1-1 with the monitor you want to turn off in the script.
 
-Rerun the script.
+Re-run the script.
 
 All Done!
  
