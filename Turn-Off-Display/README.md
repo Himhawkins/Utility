@@ -5,7 +5,7 @@ the script can force turn off the monitor.
 
 To run, give permission to executable:
 ```
-chmod +x TurnOff.sh
+ chmod +x TurnOff.sh
 ```
 
 Execute to look at the list of monitors:
