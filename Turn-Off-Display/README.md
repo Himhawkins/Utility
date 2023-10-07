@@ -3,7 +3,7 @@
 Sample Usage: In Elementary OS, when the settings menu is unable to switch off the primary display,
 the script can force turn off the monitor.
 
-To run, give permission to executable:
+To run, give permission to executable :
 ```
  chmod +x TurnOff.sh
 ```
