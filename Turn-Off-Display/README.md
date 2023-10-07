@@ -8,7 +8,7 @@ To run, give permission to executable :
  chmod +x TurnOff.sh
 ```
 
-Execute to look at the list of monitors:
+Execute to look at the list of monitors :
 ```
 ./TurnOff.sh
 ```
